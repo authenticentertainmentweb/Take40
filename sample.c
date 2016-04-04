@@ -1,0 +1,7 @@
+#include<stdio.h>
+int main()
+{
+printf("hello world from Take40");
+return 0;
+}
+
